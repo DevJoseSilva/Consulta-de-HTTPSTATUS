@@ -1,0 +1,50 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+yarn.lock
+.pnpm-debug.log
+
+# Editor
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Producción/compilados
+dist/
+build/
+out/
+
+# Archivos de entorno
+.env
+.env.*
+
+# Logs
+logs/
+*.log
+
+# Cobertura de tests
+coverage/
+.nyc_output/
+
+# Archivos temporales
+tmp/
+temp/
+*.tmp
+*.swp
+
+# PM2
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Test outputs
+test-results/
+
