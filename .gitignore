@@ -48,3 +48,4 @@ pids/
 # Test outputs
 test-results/
 
+mongo_config.json
